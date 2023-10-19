@@ -1,3 +1,9 @@
+// 1. Prouči jQuery AJAX poziv.
+// 2. Pregledajte funkciju koja se poziva na neuspješan kraj API poziva. Ta funkcija ispisuje poruku na ekranu sa dodatnim infomacijama o greški.
+// 3. Pronađite koji kod dodaje u tablicu:
+//     - prirodno staniše vrste (link na detaljne informacije o staništu)
+//     - brzinu rasta
+
 $(function () {
   let pokemons = [];
 
